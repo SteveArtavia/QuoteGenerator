@@ -1,6 +1,5 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: ;
   }
   i{
     color: #efefef;
@@ -8,6 +7,15 @@ body {
   }
   #quote{
     font-size: 1.5em;
+    color: grey;
+  }
+  small{
+    font-weight: bold;
+    color: grey;
+  }
+  #display{
+    padding: 5em;
+    border: 0.5px solid #efefef;
   }
   #display:active{
     background-color: white;
