@@ -1,0 +1,16 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: ;
+  }
+  i{
+    color: #efefef;
+    font-size: 2em;
+  }
+  #quote{
+    font-size: 1.5em;
+  }
+  #display:active{
+    background-color: white;
+    transform: scale(0.95);
+    transition: .1s ease;
+  }
