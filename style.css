@@ -22,3 +22,7 @@ body {
     transform: scale(0.95);
     transition: .1s ease;
   }
+  footer{
+    color: grey;
+    margin-top: 100px;
+  }
